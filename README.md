@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cxlxsseum , also known as Casian
+- 👋 Hi, I’m @cxlxsseum , also known as Casian Tatar
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me :
