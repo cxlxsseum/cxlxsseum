@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me :
-- Instagram : casian.tatar
+- Instagram : pycasian
